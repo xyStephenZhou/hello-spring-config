@@ -15,7 +15,7 @@ spring:
       client: http://localhost:8084
 
 server:
-  port: 8765
+  port: 8766
 
 feign:
   hystrix:
